@@ -1,0 +1,1 @@
+Put these rules into uBlock for instance.
